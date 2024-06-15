@@ -1,6 +1,7 @@
 # MarkItDown
 
-MarkItDown is a simple, user-friendly Markdown editor built with React⚛️ and Firebase🔥. It allows users to write and preview Markdown content in real-time, making it easier to format text for various purposes such as documentation, notes, or blog posts.<br>
+MarkItDown is a simple, user-friendly Markdown editor built with React⚛️ and Firebase🔥. It allows users to write and preview Markdown content in real-time, making it easier to format text for various purposes such as documentation, notes, or blog posts.
+
 This project is part of Learn React course on [scrimba.com](scrimba.com).
 
 ## Demo
@@ -63,7 +64,7 @@ Contributions are welcome! Please fork the repository and use a feature branch. 
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/YourFeature`)
-3. Commit your changes (`git commit -m 'Add some feature'`)
+3. Commit your changes git commit -m 'Add some feature'`)
 4. Push to the branch (`git push origin feature/YourFeature`)
 5. Open a pull request
 
