@@ -6,7 +6,7 @@ import { getFirestore, collection } from "firebase/firestore"
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey: import.meta.env.FIREBASE_API_KEY,
+    apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
     authDomain: "react-notes-b057b.firebaseapp.com",
     projectId: "react-notes-b057b",
     storageBucket: "react-notes-b057b.appspot.com",
