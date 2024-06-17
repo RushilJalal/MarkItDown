@@ -2,6 +2,8 @@
 
 MarkItDown is a simple, user-friendly Markdown editor built with React⚛️ and Firebase🔥. It allows users to write and preview Markdown content in real-time, making it easier to format text for various purposes such as documentation, notes, or blog posts.
 
+It also features Firebase Auth with Google sign-in.
+
 This project is part of Learn React course on [scrimba.com](scrimba.com).
 
 ## Demo
@@ -15,6 +17,7 @@ This project is part of Learn React course on [scrimba.com](scrimba.com).
 - Live preview of Markdown content
 - User-friendly interface
 - Firebase integration for data storage and authentication
+- Google sign in functionality to save notes
 
 ## Installation
 
@@ -54,6 +57,7 @@ To run this project locally, follow these steps:
 
 ## Usage
 
+- Sign in with Google
 - Write Markdown in the editor pane.
 - See the rendered Markdown preview in real-time in the preview pane.
 - Use the toolbar for common Markdown syntax shortcuts.
