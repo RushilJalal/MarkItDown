@@ -184,3 +184,24 @@ button:focus {
     align-items: center;
     background-color: whitesmoke;
 }
+
+.sign-in-button {
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+}
+
+.sign-in-img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.sign-in-header {
+    display: flex;
+    gap: 20px;
+    padding: 10px;
+    justify-content: right;
+}
