@@ -46,7 +46,7 @@ const AuthManager = ({ setUser }) => {
       {!authUser ? (
         <button onClick={handleSignIn} className="sign-in-button">
           <img
-            src="../../public/google-sign-in.png"
+            src="/google-sign-in.png"
             alt="Google sign in"
             className="sign-in-img"
           />
