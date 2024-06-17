@@ -10,7 +10,7 @@ This project is part of Learn React course on [scrimba.com](scrimba.com).
 
 ![MarkItDown Screenshot](./public/screenshot.png)
 
-[Live Demo](https://rushil-markitdown.netlify.app/)
+[Live Demo](https://mark-it-down-qm9zo7fy9-rushiljalals-projects.vercel.app)
 
 ## Features
 
