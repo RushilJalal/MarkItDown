@@ -42,7 +42,7 @@ const AuthManager = ({ setUser }) => {
   };
 
   return (
-    <div className="auth-container">
+    <div className={`auth-container ${!authUser ? "full-height" : ""}`}>
       {!authUser ? (
         <button onClick={handleSignIn} className="sign-in-button">
           <img
