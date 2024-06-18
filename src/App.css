@@ -206,11 +206,13 @@ button:focus {
     justify-content: right;
 }
 
-.auth-container {
+.logged-in-auth-container {
     display: flex;
-    justify-content: center;
+    justify-content: right;
 }
 
-.full-height {
+.logged-out-auth-container {
+    display: flex;
     height: 100vh;
+    justify-content: center;
 }
