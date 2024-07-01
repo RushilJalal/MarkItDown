@@ -58,7 +58,9 @@ const AuthManager = ({ setUser }) => {
       ) : (
         <header className="sign-in-header">
           <p>Welcome, {authUser.displayName}</p>
-          <button onClick={handleSignOut}>Sign Out</button>
+          <button className="sign-out-button" onClick={handleSignOut}>
+            Sign Out
+          </button>
         </header>
       )}
     </div>

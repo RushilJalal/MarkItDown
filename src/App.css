@@ -191,6 +191,7 @@ button:focus {
     justify-content: center;
     align-items: center;
     align-self: center;
+    cursor: pointer;
 }
 
 .sign-in-img {
@@ -215,4 +216,13 @@ button:focus {
     display: flex;
     height: 100vh;
     justify-content: center;
+}
+
+.sign-out-button {
+    background-color: #4A4E74;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 0.5rem;
+    cursor: pointer;
 }
